@@ -1,0 +1,3 @@
+on join:
+    set player's tab list header to "&6&lSIMPLE TABLIST"
+    set player's tab list footer to "Set this in plugin Skript/skripts/simpletablist.sk"
